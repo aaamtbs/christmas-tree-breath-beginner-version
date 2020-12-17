@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "aaam-tbs-christmas-tree": "github:aaamtbs/aaam-tbs-christmas-tree#v0.3.18"
+        "aaam-tbs-christmas-tree": "github:aaamtbs/aaam-tbs-christmas-tree#v0.3.21"
     },
     "files": [
         "main.blocks",
