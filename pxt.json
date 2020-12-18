@@ -1,5 +1,6 @@
 {
     "name": "Christmas tree breath (beginner version)",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
